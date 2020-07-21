@@ -131,6 +131,9 @@ namespace Contactos
 
 
             }
+
+            Console.ReadKey();
         }
+
     }
 }
